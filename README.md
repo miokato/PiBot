@@ -6,7 +6,7 @@ PiBot
 
 ボディのデザインはこんな感じ。
 
-<img src="https://i.gyazo.com/aef038bd3d01c9f087ff54fb89f166bc.jpg" width="320">
+<img src="https://i.gyazo.com/aef038bd3d01c9f087ff54fb89f166bc.jpg" width="320"/>
 
 こんな感じで動きます。
 
