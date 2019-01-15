@@ -10,7 +10,7 @@ PiBot
 
 こんな感じで動きます。
 
-<a href="https://gyazo.com/01551400dce30a9c4d7ba219a2bd7e5d"><img src="https://i.gyazo.com/01551400dce30a9c4d7ba219a2bd7e5d.gif" alt="Image from Gyazo" width="480"/></a>
+<a href="https://gyazo.com/01551400dce30a9c4d7ba219a2bd7e5d"><img src="https://i.gyazo.com/01551400dce30a9c4d7ba219a2bd7e5d.gif" alt="Image from Gyazo" width="320"/></a>
 
 ## Getting started
 1. `body_design`のデータからレーザー加工機でボディのパーツを作成。素材は4mmのものを使ってください。
